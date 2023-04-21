@@ -1,0 +1,183 @@
+{"frames": [
+
+{
+	"filename": "+.png",
+	"frame": {"x":0,"y":0,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "-.png",
+	"frame": {"x":28,"y":0,"w":28,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":14},
+	"sourceSize": {"w":28,"h":14},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0000_,.png",
+	"frame": {"x":0,"y":28,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0001_9.png",
+	"frame": {"x":31,"y":28,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0002_8.png",
+	"frame": {"x":62,"y":28,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0003_7.png",
+	"frame": {"x":93,"y":28,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0004_6.png",
+	"frame": {"x":0,"y":64,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0005_5.png",
+	"frame": {"x":31,"y":64,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0006_3.png",
+	"frame": {"x":62,"y":64,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0007_2.png",
+	"frame": {"x":93,"y":64,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0008_1.png",
+	"frame": {"x":0,"y":100,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0009_0.png",
+	"frame": {"x":31,"y":100,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "4_0010_图层-0.png",
+	"frame": {"x":62,"y":100,"w":31,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":36},
+	"sourceSize": {"w":31,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "=.png",
+	"frame": {"x":56,"y":0,"w":28,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":23},
+	"sourceSize": {"w":28,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "x.png",
+	"frame": {"x":93,"y":100,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "÷.png",
+	"frame": {"x":84,"y":0,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "万.png",
+	"frame": {"x":0,"y":136,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "亿.png",
+	"frame": {"x":44,"y":136,"w":45,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":44},
+	"sourceSize": {"w":45,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "千.png",
+	"frame": {"x":0,"y":180,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jackpot.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a5eb9fd691252753d9f4de3d185d87ab:4ed2403a1da6cdb061f79bda7c5d5375:7112f6d5650108f37426531401fed427$"
+}
+}

@@ -1,0 +1,202 @@
+
+freein.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Wlzb_icon_longbody
+  rotate: false
+  xy: 552, 892
+  size: 368, 129
+  orig: 368, 130
+  offset: 0, 1
+  index: -1
+images/Wlzb_icon_longtou01
+  rotate: false
+  xy: 871, 743
+  size: 111, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+images/ch_in/ch_in_idle_00000
+  rotate: false
+  xy: 513, 742
+  size: 34, 63
+  orig: 600, 90
+  offset: 45, 13
+  index: -1
+images/ch_in/ch_in_idle_00001
+  rotate: false
+  xy: 982, 677
+  size: 39, 64
+  orig: 600, 90
+  offset: 45, 12
+  index: -1
+images/ch_in/ch_in_idle_00002
+  rotate: true
+  xy: 217, 538
+  size: 59, 65
+  orig: 600, 90
+  offset: 45, 12
+  index: -1
+images/ch_in/ch_in_idle_00003
+  rotate: false
+  xy: 922, 889
+  size: 97, 65
+  orig: 600, 90
+  offset: 46, 12
+  index: -1
+images/ch_in/ch_in_idle_00004
+  rotate: false
+  xy: 922, 956
+  size: 98, 65
+  orig: 600, 90
+  offset: 111, 12
+  index: -1
+images/ch_in/ch_in_idle_00005
+  rotate: false
+  xy: 322, 675
+  size: 102, 66
+  orig: 600, 90
+  offset: 208, 11
+  index: -1
+images/ch_in/ch_in_idle_00006
+  rotate: false
+  xy: 921, 821
+  size: 96, 66
+  orig: 600, 90
+  offset: 330, 12
+  index: -1
+images/ch_in/ch_in_idle_00007
+  rotate: false
+  xy: 322, 607
+  size: 95, 66
+  orig: 600, 90
+  offset: 430, 11
+  index: -1
+images/ch_in/ch_in_idle_00008
+  rotate: false
+  xy: 419, 603
+  size: 71, 67
+  orig: 600, 90
+  offset: 483, 11
+  index: -1
+images/ch_in/ch_in_idle_00009
+  rotate: false
+  xy: 505, 672
+  size: 45, 68
+  orig: 600, 90
+  offset: 510, 11
+  index: -1
+images/en_in/en_in_idle_00000
+  rotate: false
+  xy: 513, 807
+  size: 37, 70
+  orig: 600, 90
+  offset: 26, 10
+  index: -1
+images/en_in/en_in_idle_00001
+  rotate: false
+  xy: 978, 529
+  size: 43, 70
+  orig: 600, 90
+  offset: 26, 10
+  index: -1
+images/en_in/en_in_idle_00002
+  rotate: true
+  xy: 294, 542
+  size: 63, 70
+  orig: 600, 90
+  offset: 26, 10
+  index: -1
+images/en_in/en_in_idle_00003
+  rotate: false
+  xy: 871, 528
+  size: 105, 71
+  orig: 600, 90
+  offset: 26, 10
+  index: -1
+images/en_in/en_in_idle_00004
+  rotate: false
+  xy: 871, 672
+  size: 109, 69
+  orig: 600, 90
+  offset: 93, 12
+  index: -1
+images/en_in/en_in_idle_00005
+  rotate: false
+  xy: 217, 599
+  size: 75, 69
+  orig: 600, 90
+  offset: 202, 12
+  index: -1
+images/en_in/en_in_idle_00006
+  rotate: false
+  xy: 217, 670
+  size: 103, 71
+  orig: 600, 90
+  offset: 336, 10
+  index: -1
+images/en_in/en_in_idle_00007
+  rotate: false
+  xy: 871, 601
+  size: 107, 69
+  orig: 600, 90
+  offset: 435, 12
+  index: -1
+images/en_in/en_in_idle_00008
+  rotate: false
+  xy: 426, 672
+  size: 77, 69
+  orig: 600, 90
+  offset: 497, 12
+  index: -1
+images/en_in/en_in_idle_00009
+  rotate: false
+  xy: 871, 821
+  size: 48, 69
+  orig: 600, 90
+  offset: 526, 12
+  index: -1
+images/freetime
+  rotate: false
+  xy: 2, 951
+  size: 548, 70
+  orig: 548, 70
+  offset: 0, 0
+  index: -1
+images/freetimeguang
+  rotate: false
+  xy: 2, 879
+  size: 548, 70
+  orig: 548, 70
+  offset: 0, 0
+  index: -1
+images/gongxi
+  rotate: false
+  xy: 2, 811
+  size: 509, 66
+  orig: 510, 67
+  offset: 0, 0
+  index: -1
+images/gongxiguang
+  rotate: false
+  xy: 2, 743
+  size: 509, 66
+  orig: 510, 67
+  offset: 0, 0
+  index: -1
+images/images_quan_light1
+  rotate: false
+  xy: 2, 528
+  size: 213, 213
+  orig: 216, 216
+  offset: 1, 2
+  index: -1
+images/xuangzhuanlight1
+  rotate: true
+  xy: 552, 590
+  size: 300, 317
+  orig: 300, 317
+  offset: 0, 0
+  index: -1

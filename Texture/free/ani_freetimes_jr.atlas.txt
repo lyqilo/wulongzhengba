@@ -1,0 +1,118 @@
+
+ani_freetimes_jr.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Wlzb_icon_longbody
+  rotate: false
+  xy: 2, 337
+  size: 258, 91
+  orig: 258, 91
+  offset: 0, 0
+  index: -1
+images/Wlzb_icon_longtou01
+  rotate: true
+  xy: 183, 57
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+images/Wlzb_icon_mfyx1
+  rotate: true
+  xy: 2, 67
+  size: 177, 46
+  orig: 177, 47
+  offset: 0, 0
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0000
+  rotate: true
+  xy: 69, 255
+  size: 13, 29
+  orig: 280, 84
+  offset: 14, 45
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0002
+  rotate: false
+  xy: 2, 2
+  size: 40, 63
+  orig: 280, 84
+  offset: 12, 12
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0004
+  rotate: true
+  xy: 158, 273
+  size: 62, 64
+  orig: 280, 84
+  offset: 13, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0006
+  rotate: true
+  xy: 50, 64
+  size: 90, 64
+  orig: 280, 84
+  offset: 19, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0008
+  rotate: false
+  xy: 69, 270
+  size: 87, 65
+  orig: 280, 84
+  offset: 48, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0010
+  rotate: true
+  xy: 116, 71
+  size: 83, 65
+  orig: 280, 84
+  offset: 79, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0012
+  rotate: true
+  xy: 262, 339
+  size: 89, 65
+  orig: 280, 84
+  offset: 101, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0014
+  rotate: true
+  xy: 50, 156
+  size: 88, 65
+  orig: 280, 84
+  offset: 129, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0016
+  rotate: true
+  xy: 2, 246
+  size: 89, 65
+  orig: 280, 84
+  offset: 155, 10
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0018
+  rotate: false
+  xy: 117, 203
+  size: 79, 65
+  orig: 280, 84
+  offset: 184, 10
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0020
+  rotate: false
+  xy: 183, 137
+  size: 58, 64
+  orig: 280, 84
+  offset: 209, 11
+  index: -1
+images/eff_mfyx_sg/eff_mfyx_sg_0022
+  rotate: true
+  xy: 117, 171
+  size: 30, 62
+  orig: 280, 84
+  offset: 237, 11
+  index: -1
+images/images_txt_gxhd
+  rotate: true
+  xy: 262, 88
+  size: 249, 64
+  orig: 252, 67
+  offset: 1, 2
+  index: -1

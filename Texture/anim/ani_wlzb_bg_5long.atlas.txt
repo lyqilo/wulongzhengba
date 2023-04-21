@@ -1,0 +1,146 @@
+
+ani_wlzb_bg_5long.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/eff_longtu_bg/images_zhuzi_0000
+  rotate: true
+  xy: 397, 733
+  size: 143, 140
+  orig: 200, 200
+  offset: 29, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0002
+  rotate: true
+  xy: 378, 444
+  size: 142, 141
+  orig: 200, 200
+  offset: 29, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0004
+  rotate: false
+  xy: 397, 590
+  size: 141, 141
+  orig: 200, 200
+  offset: 29, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0006
+  rotate: true
+  xy: 378, 300
+  size: 142, 141
+  orig: 200, 200
+  offset: 28, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0008
+  rotate: false
+  xy: 320, 119
+  size: 142, 142
+  orig: 200, 200
+  offset: 28, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0010
+  rotate: true
+  xy: 464, 156
+  size: 142, 141
+  orig: 200, 200
+  offset: 28, 31
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0012
+  rotate: true
+  xy: 254, 733
+  size: 143, 141
+  orig: 200, 200
+  offset: 28, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0014
+  rotate: false
+  xy: 398, 880
+  size: 143, 140
+  orig: 200, 200
+  offset: 28, 31
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0016
+  rotate: false
+  xy: 254, 878
+  size: 142, 142
+  orig: 200, 200
+  offset: 29, 29
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0018
+  rotate: true
+  xy: 254, 588
+  size: 143, 141
+  orig: 200, 200
+  offset: 29, 29
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0020
+  rotate: true
+  xy: 539, 736
+  size: 142, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+BG/eff_longtu_bg/images_zhuzi_0022
+  rotate: true
+  xy: 469, 12
+  size: 142, 141
+  orig: 200, 200
+  offset: 30, 29
+  index: -1
+BG/images_honglong1
+  rotate: false
+  xy: 2, 238
+  size: 223, 331
+  orig: 241, 378
+  offset: 0, 7
+  index: -1
+BG/images_honglong_head
+  rotate: false
+  xy: 227, 330
+  size: 149, 239
+  orig: 149, 248
+  offset: 0, 6
+  index: -1
+BG/images_honglong_lx2
+  rotate: true
+  xy: 543, 901
+  size: 119, 72
+  orig: 119, 72
+  offset: 0, 0
+  index: -1
+BG/images_honglong_lx_1
+  rotate: true
+  xy: 2, 2
+  size: 56, 101
+  orig: 59, 101
+  offset: 2, 0
+  index: -1
+BG/images_huangjinlong1
+  rotate: false
+  xy: 2, 571
+  size: 250, 449
+  orig: 308, 493
+  offset: 58, 0
+  index: -1
+BG/images_huangjinlong1_lx_l
+  rotate: true
+  xy: 227, 263
+  size: 65, 139
+  orig: 75, 149
+  offset: 7, 5
+  index: -1
+BG/images_huangjinlong1_lx_r
+  rotate: false
+  xy: 320, 7
+  size: 147, 110
+  orig: 147, 110
+  offset: 0, 0
+  index: -1
+BG/images_huangjinlong_longtou
+  rotate: true
+  xy: 2, 60
+  size: 176, 316
+  orig: 201, 320
+  offset: 17, 4
+  index: -1

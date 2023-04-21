@@ -1,0 +1,265 @@
+
+eff_wlzb_button_start.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_images_huawen1
+  rotate: true
+  xy: 625, 1469
+  size: 184, 187
+  orig: 200, 200
+  offset: 8, 6
+  index: -1
+_0001_images_guangquan4
+  rotate: false
+  xy: 294, 1891
+  size: 99, 98
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+_0002_images_guangquan3
+  rotate: false
+  xy: 443, 1494
+  size: 180, 179
+  orig: 180, 180
+  offset: 0, 1
+  index: -1
+_0003_images_guangquan2
+  rotate: false
+  xy: 1714, 1427
+  size: 212, 211
+  orig: 241, 241
+  offset: 17, 16
+  index: -1
+eff_gfxm/gfxm_button_0000
+  rotate: false
+  xy: 1239, 1642
+  size: 175, 175
+  orig: 177, 177
+  offset: 0, 1
+  index: -1
+eff_gfxm/gfxm_button_0002
+  rotate: true
+  xy: 531, 1675
+  size: 173, 175
+  orig: 177, 177
+  offset: 2, 1
+  index: -1
+eff_gfxm/gfxm_button_0004
+  rotate: false
+  xy: 1416, 1641
+  size: 175, 175
+  orig: 177, 177
+  offset: 1, 1
+  index: -1
+eff_gfxm/gfxm_button_0006
+  rotate: false
+  xy: 1593, 1640
+  size: 176, 175
+  orig: 177, 177
+  offset: 0, 1
+  index: -1
+eff_gfxm/gfxm_button_0008
+  rotate: true
+  xy: 1061, 1644
+  size: 174, 176
+  orig: 177, 177
+  offset: 2, 0
+  index: -1
+eff_gfxm/gfxm_button_0010
+  rotate: false
+  xy: 1771, 1640
+  size: 176, 175
+  orig: 177, 177
+  offset: 0, 1
+  index: -1
+eff_gfxm/gfxm_button_0012
+  rotate: true
+  xy: 1637, 1817
+  size: 172, 175
+  orig: 177, 177
+  offset: 1, 1
+  index: -1
+eff_gfxm/gfxm_button_0014
+  rotate: true
+  xy: 1814, 1817
+  size: 172, 175
+  orig: 177, 177
+  offset: 1, 1
+  index: -1
+eff_gfxm/gfxm_button_0016
+  rotate: true
+  xy: 708, 1655
+  size: 173, 175
+  orig: 177, 177
+  offset: 0, 2
+  index: -1
+eff_gfxm/gfxm_button_0018
+  rotate: false
+  xy: 2, 1732
+  size: 175, 172
+  orig: 177, 177
+  offset: 0, 4
+  index: -1
+eff_gfxm/gfxm_button_0020
+  rotate: false
+  xy: 1286, 1819
+  size: 175, 170
+  orig: 177, 177
+  offset: 1, 6
+  index: -1
+eff_gfxm/gfxm_button_0022
+  rotate: false
+  xy: 1463, 1818
+  size: 172, 171
+  orig: 177, 177
+  offset: 3, 5
+  index: -1
+eff_gfxm/gfxm_button_0024
+  rotate: false
+  xy: 179, 1717
+  size: 173, 172
+  orig: 177, 177
+  offset: 3, 4
+  index: -1
+eff_gfxm/gfxm_button_0026
+  rotate: false
+  xy: 885, 1649
+  size: 174, 173
+  orig: 177, 177
+  offset: 1, 3
+  index: -1
+eff_gfxm/gfxm_button_0028
+  rotate: true
+  xy: 354, 1696
+  size: 172, 175
+  orig: 177, 177
+  offset: 1, 1
+  index: -1
+guangquan1
+  rotate: false
+  xy: 947, 1824
+  size: 165, 165
+  orig: 167, 167
+  offset: 1, 0
+  index: -1
+images_jinquan1
+  rotate: false
+  xy: 1258, 1443
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+images_start_icon/_0000_images_dianjilizi_01
+  rotate: false
+  xy: 2, 1949
+  size: 40, 40
+  orig: 256, 270
+  offset: 91, 124
+  index: -1
+images_start_icon/_0001_images_dianjilizi_02
+  rotate: true
+  xy: 44, 1917
+  size: 72, 74
+  orig: 256, 270
+  offset: 76, 103
+  index: -1
+images_start_icon/_0002_images_dianjilizi_03
+  rotate: false
+  xy: 395, 1886
+  size: 110, 103
+  orig: 256, 270
+  offset: 58, 85
+  index: -1
+images_start_icon/_0003_images_dianjilizi_04
+  rotate: false
+  xy: 507, 1870
+  size: 122, 119
+  orig: 256, 270
+  offset: 51, 77
+  index: -1
+images_start_icon/_0004_images_dianjilizi_05
+  rotate: false
+  xy: 631, 1850
+  size: 143, 139
+  orig: 256, 270
+  offset: 45, 69
+  index: -1
+images_start_icon/_0005_images_dianjilizi_06
+  rotate: true
+  xy: 776, 1830
+  size: 159, 169
+  orig: 256, 270
+  offset: 43, 49
+  index: -1
+images_start_icon/_0006_images_dianjilizi_07
+  rotate: false
+  xy: 2, 1539
+  size: 184, 176
+  orig: 256, 270
+  offset: 19, 52
+  index: -1
+images_start_icon/_0007_images_dianjilizi_08
+  rotate: false
+  xy: 814, 1461
+  size: 210, 186
+  orig: 256, 270
+  offset: 28, 50
+  index: -1
+images_start_icon/_0008_images_dianjilizi_09
+  rotate: true
+  xy: 188, 1517
+  size: 177, 253
+  orig: 256, 270
+  offset: 19, 0
+  index: -1
+images_start_icon/_0009_images_dianjilizi_010
+  rotate: true
+  xy: 2, 1301
+  size: 214, 224
+  orig: 256, 270
+  offset: 1, 32
+  index: -1
+images_start_icon/_0010_images_dianjilizi_011
+  rotate: false
+  xy: 228, 1277
+  size: 226, 215
+  orig: 256, 270
+  offset: 6, 54
+  index: -1
+images_start_icon/_0011_images_dianjilizi_012
+  rotate: false
+  xy: 1456, 1428
+  size: 256, 210
+  orig: 256, 270
+  offset: 0, 39
+  index: -1
+images_start_icon/_0012_images_dianjilizi_013
+  rotate: true
+  xy: 1026, 1448
+  size: 192, 230
+  orig: 256, 270
+  offset: 5, 33
+  index: -1
+xuanzhuan00
+  rotate: false
+  xy: 120, 1906
+  size: 84, 83
+  orig: 86, 86
+  offset: 1, 1
+  index: -1
+xuanzhuan_01
+  rotate: false
+  xy: 206, 1906
+  size: 86, 83
+  orig: 86, 86
+  offset: 0, 1
+  index: -1
+xuanzhuan_button
+  rotate: false
+  xy: 1114, 1820
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1

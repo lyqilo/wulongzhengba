@@ -1,0 +1,62 @@
+
+ani_wlzb_bg_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0000
+  rotate: true
+  xy: 2, 722
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0003
+  rotate: true
+  xy: 227, 722
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0006
+  rotate: true
+  xy: 452, 722
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0009
+  rotate: true
+  xy: 677, 722
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0012
+  rotate: true
+  xy: 2, 542
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0015
+  rotate: true
+  xy: 227, 542
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0018
+  rotate: true
+  xy: 452, 542
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
+BG/eff_longtu_bg/Wlzb_icon_wlzb_BG_0021
+  rotate: true
+  xy: 677, 542
+  size: 178, 223
+  orig: 210, 252
+  offset: 23, 12
+  index: -1
